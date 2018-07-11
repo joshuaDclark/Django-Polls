@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath django-polls django-polls.wsgi --log-file -
+web: gunicorn django-polls.wsgi --log-file -
