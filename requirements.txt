@@ -2,7 +2,6 @@ altgraph==0.10.2
 asn1crypto==0.24.0
 bdist-mpkg==0.5.0
 beautifulsoup4==4.6.0
-bonjour-py==0.3
 certifi==2017.11.5
 cffi==1.11.2
 chardet==3.0.4
@@ -77,5 +76,3 @@ twilio==6.10.0
 urllib3==1.22
 virtualenv==15.1.0
 whitenoise==3.3.1
-xattr==0.6.4
-zope.interface==4.1.1
